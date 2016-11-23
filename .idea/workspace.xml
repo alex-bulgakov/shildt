@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="662997dc-231a-41aa-a6c5-29fbc5410a7f" name="Default" comment="update">
+    <list default="true" id="662997dc-231a-41aa-a6c5-29fbc5410a7f" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shildt/part10/compfiles/CompFiles.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shildt/part10/copy/CopyFile.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shildt/part10/file_writer/FileWriterDemo.class" />
@@ -11,9 +11,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shildt/part10/read_file/ShowFile.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shildt/part10/read_lines/ReadLines.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shildt/part10/rw_data/RWData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/random.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testdata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shildt/part10/compfiles/f1" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shildt/part10/compfiles/f2" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shildt/part10/compfiles/f3" />
@@ -23,28 +20,12 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shildt/part7/test" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shildt/part8/test/test" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shildt/part9/test/test" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/compfiles/CompFiles.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/compfiles/f1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/compfiles/f2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/compfiles/f3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/copy/CopyFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/copy/test" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/copy/test3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/file_writer/FileWriterDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/file_writer/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/print_writer/PrintWriterDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/random_access/RandomAccess.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/read_char/ReadChar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/read_file/ShowFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/read_file/test" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/read_lines/ReadLines.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/part10/rw_data/RWData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/shildt/part4/FDemo.class" afterPath="$PROJECT_DIR$/out/production/shildt/part4/FDemo.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/shildt/part4/Finalize.class" afterPath="$PROJECT_DIR$/out/production/shildt/part4/Finalize.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/shildt/part6/test/test" afterPath="$PROJECT_DIR$/out/production/shildt/part6/test/test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/part10/file_writer/test.txt" afterPath="$PROJECT_DIR$/src/part10/file_writer/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.txt" afterPath="$PROJECT_DIR$/test.txt" />
     </list>
     <ignored path="shildt.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -863,6 +844,14 @@
       <option name="presentableId" value="Default" />
       <updated>1478707192279</updated>
     </task>
+    <task id="LOCAL-00001" summary="file_write">
+      <created>1479908979261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479908979261</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -912,7 +901,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="file_write" />
+    <option name="LAST_COMMIT_MESSAGE" value="file_write" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
