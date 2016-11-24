@@ -44,4 +44,19 @@ public class Help{
         return false;
     }
 
+    String getSelection() {
+        String topic = "";
+
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+
+        System.out.println("Enter topic: ");
+
+        try {
+            topic = reader.readLine();
+        } catch (IOException e) {
+            System.out.println("Error read from console");
+        }
+        return topic;
+    }
+
 }
