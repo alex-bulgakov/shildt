@@ -1,0 +1,7 @@
+1. байтовые потоки были изначально, потом для удобства добавили символьные, символьные удобно использовать для
+интернационализации приложения.
+2. в простых программах для удобства можно обрабатывать байтовые потоки.
+3. FileInputStream file = new FileInputStream("file");
+4. FileReader file = new FileReader("file");
+5. RandomAccessFile file = new RandomAccessFile("file", "rw");
+6.
