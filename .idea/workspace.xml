@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="662997dc-231a-41aa-a6c5-29fbc5410a7f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/part10/man/FileHelp.java" afterPath="$PROJECT_DIR$/src/part10/man/FileHelp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/part10/man/Help.java" afterPath="$PROJECT_DIR$/src/part10/man/Help.java" />
-    </list>
+    <list default="true" id="662997dc-231a-41aa-a6c5-29fbc5410a7f" name="Default" comment="" />
     <ignored path="shildt.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
