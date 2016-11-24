@@ -1,0 +1,11 @@
+#functions
+Example: int foo(int a, int b) {}
+
+#variables
+Example: double x = 4.43;
+
+#for
+Example: for(int i = 0; i < 10; i++) {}
+
+#if
+Example: if(a < b) {do some}
