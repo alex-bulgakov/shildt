@@ -1,4 +1,4 @@
-package part10.file_writer;
+package part10.file_writer_reader;
 
 import java.io.BufferedReader;
 import java.io.FileWriter;
@@ -15,7 +15,7 @@ public class FileWriterDemo {
 
         System.out.println("stop - is the end of entering");
 
-        try (FileWriter fw = new FileWriter("/media/projects/shildt/src/part10/file_writer/test.txt")) {
+        try (FileWriter fw = new FileWriter("/media/projects/shildt/src/part10/file_writer_reader/test.txt")) {
             do {
                 System.out.print(": ");
                 s = reader.readLine();
